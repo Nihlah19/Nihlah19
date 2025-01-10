@@ -11,18 +11,13 @@ Hi! 👋 Saya seorang pelajar Teknik Komputer dan Jaringan (TKJ) yang antusias d
 - **Bahasa Pemrograman**: HTML, CSS, JavaScript, Python.
 - **Tools**: VSCode.
 
-## 📂 Proyek Unggulan
-1. **[Nama Proyek 1]**  
-   Deskripsi singkat proyek: [Apa yang dilakukan proyek ini?].  
-   🔗 [Link ke repository](https://github.com/username/proyek1)
-
-2. **[Nama Proyek 2]**  
-   Deskripsi singkat proyek: [Apa yang dilakukan proyek ini?].  
-   🔗 [Link ke repository](https://github.com/username/proyek2)
-
-3. **[Nama Proyek 3]**  
-   Deskripsi singkat proyek: [Apa yang dilakukan proyek ini?].  
-   🔗 [Link ke repository](https://github.com/username/proyek3)
+### Github Statistic
+<p align="left">
+<a href="https://github.com/Nihlah19">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nihlah19&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 ## 🎯 Target Masa Depan
