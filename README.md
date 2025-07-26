@@ -21,8 +21,9 @@ Hi! 👋 Saya seorang pelajar Teknik Komputer dan Jaringan (TKJ) yang antusias d
 
 
 ## 🎯 Target Masa Depan
-- Mengembangkan aplikasi mobile yang inovatif.
+- Mengembangkan aplikasi mobile ataupun website yang inovatif & kreatif.
 - Berkontribusi lebih banyak ke proyek open-source.
 - Belajar lebih dalam dan menguasai Front-End dan Back-End.
+- Belajar lebih dalam mengenai AI dan berfokus juga pada bidang Machine learning serta Data Sience.
 
 Terima kasih telah mengunjungi profil saya! Jangan ragu untuk menghubungi saya atau memberikan saran pada proyek saya. 😊
