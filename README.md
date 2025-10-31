@@ -1,4 +1,4 @@
-Hi! 👋 Saya seorang pelajar Teknik Komputer dan Jaringan (TKJ) yang antusias dengan dunia teknologi dan pengembangan perangkat lunak. Saya sedang menjelajahi berbagai bidang, mulai dari web development hingga desain grafis, untuk membangun solusi yang bermanfaat. 
+Hi! 👋 Saya seorang mahasiswa Teknik Informatika yang antusias dengan dunia teknologi dan pengembangan perangkat lunak. Saya sedang menjelajahi berbagai bidang, mulai dari web development hingga desain grafis, untuk membangun solusi yang bermanfaat. 
 
 ## 🌟 Tentang Saya
 - 🎓 **Pendidikan**: Pelajar  Teknik Komputer dan Jaringan (TKJ) di SMK NU WARGABINANGUN.
